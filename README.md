@@ -1,26 +1,21 @@
-# 🖤🛣️ BlackRoad Fusion Simulator
+# BlackRoad Fusion Simulator
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Nuclear fusion simulation platform for research and education.
 
-## 🚀 Quick Start
+## Features
 
-```bash
-./blackroad-fusion-simulator.sh
-```
+- **Plasma Physics** - MHD and kinetic simulations
+- **Tokamak Modeling** - ITER-scale simulations
+- **Visualization** - 3D plasma visualization
+- **Parameter Sweeps** - Automated optimization
+- **Benchmarking** - Compare with experimental data
+- **Education** - Interactive learning modules
 
-## 🎨 BlackRoad Design System
+## Simulation Types
 
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
+Equilibrium, stability, transport, heating, confinement
 
-## 📚 Documentation
+## License
 
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
